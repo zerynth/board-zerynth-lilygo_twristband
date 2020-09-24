@@ -1,0 +1,15 @@
+---
+description: Add support for Lilygo T-Wristband Smart Bracelet
+fullname: board.zerynth.lilygo_twristband
+info:
+    board: Lilygo T-Wristband
+    chip_manufacturer: Espressif
+    device: esp32
+    family_type: Xtensa lx6
+keywords:
+- lilygo
+- smart bracelet
+- esp32
+- board
+title: Lilygo T-Wristband Support Package
+...
